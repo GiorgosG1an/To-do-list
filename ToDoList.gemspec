@@ -89,4 +89,3 @@ end
 todo_list = TodoList.new
 todo_list.start
 todo_list.view_tasks
-todo_list.view_tasks

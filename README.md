@@ -15,7 +15,7 @@ A simple to-do list implemented as my first project with Ruby. This project serv
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/to-do-list.git
+    git clone https://github.com/GiorgosG1an/to-do-list.git
     ```
 
 2. Navigate to the project directory:

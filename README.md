@@ -21,7 +21,7 @@ A simple to-do list implemented as my first project with Ruby. This project serv
 2. Navigate to the project directory:
 
     ```bash
-    cd to-do-list
+    cd ToDoList
     ```
 
 3. Run the Ruby script:

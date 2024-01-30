@@ -27,7 +27,7 @@ A simple to-do list implemented as my first project with Ruby. This project serv
 3. Run the Ruby script:
 
     ```bash
-    ruby todo_list.rb
+    ruby ToDoList.gemspec
     ```
 
 ## Usage
